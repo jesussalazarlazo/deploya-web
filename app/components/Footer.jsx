@@ -106,7 +106,7 @@ export default function Footer() {
             <ul className="space-y-3 text-sm text-gray-400">
               <li>
                 <a href="mailto:contacto@deploya.com" className="hover:text-deployaGreen transition-colors duration-200">
-                  contacto@deploya.com
+                  contacto@deploya.pe
                 </a>
               </li>
               <li>
