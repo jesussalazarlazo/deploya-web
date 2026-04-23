@@ -46,8 +46,8 @@ const contactInfo = [
   {
     icon: <MailIcon />,
     label: "Email",
-    value: "contacto@deploya.com",
-    href: "mailto:contacto@deploya.com",
+    value: "contacto@deploya.pe",
+    href: "mailto:contacto@deploya.pe",
   },
   {
     icon: <PhoneIcon />,
